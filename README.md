@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/bystrokr/bystrokr/main/backg.jpg)](https://github.com/bystrokr)
+[![MasterHead](https://raw.githubusercontent.com/bystrokr/bystrokr/main/banner.jpg)](https://github.com/bystrokr)
 <h1 align="center">Hola! 👋, Mi nombre es Yael</h1>
 <h3 align="center">Un amante de la tecnología y la programación</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bystrokr/bystrokr/main/profile.png">
