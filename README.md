@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/bystrokr/bystrokr/main/banner.jpg)](https://github.com/bystrokr)
 <h1 align="center">Hola! 👋, Mi nombre es Yael</h1>
 <h3 align="center">Un amante de la tecnología y la programación</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://raw.githubusercontent.com/bystrokr/bystrokr/main/pic-pf.png">
+<img align="right" alt="Coding" width="200" height="200" src="https://raw.githubusercontent.com/bystrokr/bystrokr/main/pic-pf.png">
 
 - 🔭Actualmente trabajo este proyecto: [Stery Server Uptime](https://github.com/bystrokr/steryservrs)
 
