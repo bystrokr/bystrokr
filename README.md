@@ -5,7 +5,7 @@
 
 - 🔭Actualmente trabajo este proyecto: [Stery Server Uptime](https://github.com/bystrokr/steryservrs)
 
-- 🌱 Actualmente estudio: **Jquery, React y Python**
+- 🌱 Actualmente estoy aprendiendo: **Jquery, React y Python**
 
 - 💬 Pregúntame sobre: **Javascript, PHP, CSS & HTML**
 
